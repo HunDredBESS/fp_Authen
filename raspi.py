@@ -1,3 +1,4 @@
+#!/home/kong/venv/bin/python3
 import serial
 import time
 import pandas as pd
