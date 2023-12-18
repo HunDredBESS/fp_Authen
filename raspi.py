@@ -17,7 +17,7 @@ path_csv = "/home/kong/code/fp_Authen/Data_ID.csv"
 # path_FingerPrint = r"C:\Users\roika\Documents\Project_Arduino\FingerprintAndImage\data_fingerprintTemplate"
 
 # Replace 'COM3' with the actual port your Arduino is connected to
-arduino_port = '/dev/ttyUSB0'
+arduino_port = '/dev/ttyACM0'
 baud_rate = 9600
 
 ser = serial.Serial(arduino_port, baud_rate, timeout=1)
