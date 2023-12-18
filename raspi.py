@@ -9,7 +9,7 @@ import urllib.parse
 import numpy as np
 import datetime
 
-LINE_ACCESS_TOKEN = "........"
+LINE_ACCESS_TOKEN = "uGJChf8u6taAwBwwJ36FjuzeXZwMXKCSL2dMybDRHPP"
 URL_LINE = "https://notify-api.line.me/api/notify" 
 
 path_csv = "/home/kong/code/fp_Authen/Data_ID.csv"
